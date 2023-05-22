@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cat Image Gallery</string>
+    <string name="buscar">Buscar</string>
+    <string name="descargar">Descargar</string>
+    <string name="ver_foto">Ver Foto</string>
+    <string name="almacenamiento_denegado">Permiso de escritura en almacenamiento externo denegado</string>
+    <string name="imagen_descargada">Imagen descargada exitosamente</string>
+    <string name="imagen_error">Error al descargar la imagen</string>
+    <string name="no_imagenes">No hay imagenes de la raza de gatos seleccionada</string>
+</resources>
